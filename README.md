@@ -1,71 +1,101 @@
-## Hi there 👋
- <h1 align="center">Hi there, I'm Rahul Seervi 👋</h1>
+ <div align="center">
 
-<p align="center">
-  <b>Student | Full Stack Developer in Training</b><br/>
-  Building web systems & AI tools, one project at a time.
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:1a1a2e&height=3" />
 
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" /></a>
-</p>
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rahul+Seervi;Full+Stack+Developer+in+Training;Building+web+systems+%26+AI+tools" />
 
-### 🎓 About Me
+<br/>
 
-- 🏫 Currently studying **B.Tech cse-it** at **SRM University,Chennai**
-- 💻 Focused on **Full-Stack Development & AI tools**
-- 🌱 Currently learning **[Technology/Skill]**
-- 🎯 2026 Goal: **[e.g., Land a Software Engineering internship]**
-- 📫 Reach me at **rahulseervi062@gmail.com**
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00D9FF?style=for-the-badge&labelColor=0f0f0f" />
+<img src="https://img.shields.io/badge/LOCATION-INDIA-00D9FF?style=for-the-badge&labelColor=0f0f0f" />
+<img src="https://img.shields.io/badge/AVAILABLE_FOR-INTERNSHIPS-00D9FF?style=for-the-badge&labelColor=0f0f0f" />
 
----
+</div>
 
-### 🛠️ Tech Stack
+<br/>
 
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-</p>
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
 
-> Edit these badges any time at [shields.io](https://shields.io).
+### `> whoami`
 
----
+```yaml
+name:      Rahul Seervi
+role:      Student · Full-Stack Developer
+degree:    [Your Degree]
+college:   [Your University]
+learning:  [Technology/Skill you're learning now]
+goal_2026: [Your 2026 goal]
+contact:   youremail@example.com
+```
 
-### 🚀 Featured Projects
+### `> tech_stack`
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,js,ts,html,css,tailwind,docker,git,github,figma,python&perline=8" />
+
+### `> connect`
+
+<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rahulseervi062&show_icons=true&theme=dark&hide_border=true&bg_color=0f0f0f&title_color=00D9FF&icon_color=00D9FF" width="100%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulseervi062&theme=dark&hide_border=true&background=0f0f0f&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="100%" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### `> featured_projects`
+
+<table width="100%">
+<tr>
+<td width="50%">
 
 **[Project Name 1](https://github.com/rahulseervi062/project1)**
 One-line description of what it does and what you used to build it.
+`React` `Node.js` `MongoDB`
+
+</td>
+<td width="50%">
 
 **[Project Name 2](https://github.com/rahulseervi062/project2)**
 One-line description of what it does and what you used to build it.
+`Python` `FastAPI` `Docker`
 
----
+</td>
+</tr>
+</table>
 
-### 📊 GitHub Stats (live)
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulseervi062&show_icons=true&theme=dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulseervi062&layout=compact&theme=dark&hide_border=true" height="165"/>
-</p>
+### `> top_languages`
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulseervi062&theme=dark&hide_border=true" />
-</p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulseervi062&layout=compact&theme=dark&hide_border=true&bg_color=0f0f0f&title_color=00D9FF" />
+</div>
 
----
+<br/>
 
-### 📅 Recent Activity
+### `> recent_activity`
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
----
+<br/>
 
-<p align="center"><i>Thanks for visiting my profile — feel free to connect!</i></p>
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:0f0f0f&height=3" />
+
+<sub>Thanks for stopping by — feel free to connect!</sub>
+</div>
