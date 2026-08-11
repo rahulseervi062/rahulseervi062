@@ -25,11 +25,8 @@
 ```yaml
 name:      Rahul Seervi
 role:      Student · Full-Stack Developer
-degree:    [Your Degree]
-college:   [Your University]
-learning:  [Technology/Skill you're learning now]
-goal_2026: [Your 2026 goal]
-contact:   youremail@example.com
+degree:    B.Tech CSE-IT
+college:    SRM Institute of Science and Technology
 ```
 
 ### `> tech_stack`
