@@ -87,9 +87,9 @@ One-line description of what it does and what you used to build it.
 ### `> recent_activity`
 
 <!--START_SECTION:activity-->
+- 🔨 Pushed 0 commits to [rahulseervi062/step-classes](https://github.com/rahulseervi062/step-classes)
 - ⭐ Starred [LadyKerr/github-certification-guide](https://github.com/LadyKerr/github-certification-guide)
 - 🔨 Pushed 0 commits to [rahulseervi062/-portfolio](https://github.com/rahulseervi062/-portfolio)
-- 🔨 Pushed 0 commits to [rahulseervi062/rahulseervi062](https://github.com/rahulseervi062/rahulseervi062)
 - 🔨 Pushed 0 commits to [rahulseervi062/rahulseervi062](https://github.com/rahulseervi062/rahulseervi062)
 - 🔨 Pushed 0 commits to [rahulseervi062/rahulseervi062](https://github.com/rahulseervi062/rahulseervi062)
 <!--END_SECTION:activity-->
