@@ -87,11 +87,11 @@ One-line description of what it does and what you used to build it.
 ### `> recent_activity`
 
 <!--START_SECTION:activity-->
+- ⭐ Starred [LadyKerr/github-certification-guide](https://github.com/LadyKerr/github-certification-guide)
 - 🔨 Pushed 0 commits to [rahulseervi062/-portfolio](https://github.com/rahulseervi062/-portfolio)
 - 🔨 Pushed 0 commits to [rahulseervi062/rahulseervi062](https://github.com/rahulseervi062/rahulseervi062)
 - 🔨 Pushed 0 commits to [rahulseervi062/rahulseervi062](https://github.com/rahulseervi062/rahulseervi062)
 - 🔨 Pushed 0 commits to [rahulseervi062/rahulseervi062](https://github.com/rahulseervi062/rahulseervi062)
-- 🔨 Pushed 0 commits to [rahulseervi062/-portfolio](https://github.com/rahulseervi062/-portfolio)
 <!--END_SECTION:activity-->
 
 <br/>
