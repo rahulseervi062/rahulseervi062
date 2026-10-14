@@ -87,7 +87,7 @@ One-line description of what it does and what you used to build it.
 ### `> recent_activity`
 
 <!--START_SECTION:activity-->
-- 🔨 Pushed 0 commits to [rahulseervi062/step-classes](https://github.com/rahulseervi062/step-classes)
+- No recent public activity found.
 <!--END_SECTION:activity-->
 
 <br/>
